@@ -1,10 +1,7 @@
 pandas
 jupyterlab
-"unstructured[all-docs]"
-libmagic-dev
+libmagic
 poppler-utils
-poppler-util
-tesseract-ocr
 antlr4-python3-runtime==4.9.3
 backoff==2.2.1
 beautifulsoup4==4.12.3
